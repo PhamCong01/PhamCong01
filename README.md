@@ -7,7 +7,7 @@
   <b>PHẠM VĂN CÔNG</b>
 </h1>
 
-Heya! I'm Pham Cong, a student currently living in Ha Noi, Viet Nam. I'm Nodejs Developer, i have 1 year experience with Nodejs programming work and some other programming languages for example JS, Reactjs, Typescript, Flutter,...
+Hey! I'm Pham Cong, a student currently living in Ha Noi, Viet Nam. I'm Nodejs Developer, i have 1 year experience with Nodejs programming work and some other programming languages for example JS, Reactjs, Typescript, Flutter,...
 
 <br>
 
